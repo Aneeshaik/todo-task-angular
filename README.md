@@ -25,3 +25,31 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Setup instructions
+1. Clone the Repo
+```bash
+git clone https://github.com/Aneeshaik/todo-task-angular.git
+cd <your-project-folder>
+```
+
+2. Install Dependencies
+Make sure Node.js and Angular CLI are installed.
+Then run:
+```bash
+npm install
+```
+This installs all the dependencies listed in package.json
+
+3. Serve the App
+After everything is set up:
+```bash
+ng serve
+```
+* Install Angualr CLI (if not installed)
+```bash
+npm install -g @angular/cli
+```
+
+
+
